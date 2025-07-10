@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Pytest / VSCode
+.pytest_cache/
+.vscode/
+
+# Data
+data/raw/
+data/processed/
+*.csv
+*.json
+*.db
+*.sqlite
+*.h5
+
+# Models
+models/
+*.pkl
+*.h5
+
+# Logs and reports
+*.log
+*.out
+reports/
+
+# System
+.DS_Store
+Thumbs.db
