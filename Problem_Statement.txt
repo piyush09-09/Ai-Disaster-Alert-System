@@ -1,0 +1,15 @@
+## Problem Statement
+
+Natural disasters cause massive damage, and early detection is crucial. This project aims to build an AI system that automatically detects ongoing disasters using:
+- Social media signals (text)
+- Satellite images (vision)
+- Time/location metadata
+
+The system should classify disasters, estimate severity, and visualize alerts in real time.
+
+## Objectives
+1. Classify tweet text as disaster or not using NLP
+2. Classify satellite images into disaster types
+3. Combine predictions into a unified severity score
+4. Display alerts with location, severity, and type
+5. Deploy via a user-friendly web interface (Streamlit)
