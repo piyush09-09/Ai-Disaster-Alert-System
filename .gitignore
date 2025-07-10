@@ -40,3 +40,45 @@ reports/
 # System
 .DS_Store
 Thumbs.db
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Ignore datasets and logs
+*.csv
+*.json
+*.log
+*.out
+*.db
+*.sqlite
+*.h5
+
+# Ignore model weights/checkpoints
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+
+# Ignore training outputs and logs
+output_dir/
+runs/
+*.tfevents.*
+
+# Ignore reports
+Reports/
+*.pdf
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
