@@ -48,3 +48,12 @@ ai-disaster-alert-system/
 
 ## Contributions
 Built by Piyush Kumar. This is a capstone project for showcasing machine learning and deployment skills in real-world scenarios.
+
+## 🔗 Resources
+
+| Resource         | Link                                                                                     |
+|------------------|----------------------------------------------------------------------------------------- |
+| 📂 Dataset       | https://drive.google.com/drive/folders/1jHUIx1r2_vFAO7BO-ZGk1L-nq0ZI1ZLr?usp=drive_link |
+| 🧠 Trained Model | https://drive.google.com/drive/folders/1jHUIx1r2_vFAO7BO-ZGk1L-nq0ZI1ZLr?usp=drive_link |
+| 📄 Report PDF    | https://drive.google.com/drive/folders/1jHUIx1r2_vFAO7BO-ZGk1L-nq0ZI1ZLr?usp=drive_link |
+
