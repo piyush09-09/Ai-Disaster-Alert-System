@@ -1,0 +1,62 @@
+# === PYTHON & JUPYTER ===
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# === VIRTUAL ENVIRONMENTS ===
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# === DATA FILES ===
+data/raw/
+data/processed/
+*.csv
+*.json
+*.db
+*.sqlite
+*.h5
+*.npy
+*.npz
+*.tif
+*.tar
+*.tgz
+*.zip
+
+# === MODEL CHECKPOINTS ===
+models/
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.pkl
+*.safetensors
+
+# === TRAINING OUTPUTS ===
+output_dir/
+outputs/
+runs/
+logs/
+*.log
+*.out
+*.tfevents.*
+
+# === REPORTS & PLOTS ===
+reports/
+Reports/
+*.pdf
+*.png
+*.jpg
+
+# === IDE / TOOLING ===
+.vscode/
+.pytest_cache/
+*.code-workspace
+
+# === OS-SPECIFIC FILES ===
+.DS_Store
+Thumbs.db
